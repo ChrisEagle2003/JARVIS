@@ -1,5 +1,5 @@
 # from openai import OpenAI
-# client = OpenAI(api_key='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')
+# client = OpenAI(api_key='***')
 
 # completion = client.chat.completions.create(
 #   model="gpt-3.5-turbo",
@@ -24,7 +24,7 @@
 # # openai.api_key = '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'
 
 # # # #Set API Keys
-# openai.api_key = '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'
+# openai.api_key = '***'
 # aai.settings.api_key = "3c6c2c6b95a14a25b6caa8c03db90814"
 # elevenlabs.set_api_key("6761e4263226ab42f2af91be26781aec")
 
@@ -141,7 +141,7 @@ import elevenlabs
 from queue import Queue
 import time
 
-openai.api_key = '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'
+openai.api_key = '***'
 aai.settings.api_key = "3c6c2c6b95a14a25b6caa8c03db90814"
 elevenlabs.set_api_key("6761e4263226ab42f2af91be26781aec")
 
